@@ -1,1 +1,1 @@
-let yourArray = ["string", 1, false, true, 23]
+var yourArray=["areeb",1,true,"abc",23]
